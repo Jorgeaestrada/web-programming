@@ -1,0 +1,19 @@
+h1 {
+    color:darkgreen;
+    font-size: xx-large;
+  }
+p {
+	
+    color:darkgray;
+ }
+
+#uno {
+	font-size: x-large;
+    }
+
+.oscuro {
+    background-color: black;
+    }
+.claro {
+	background-color: yellow;
+    }
